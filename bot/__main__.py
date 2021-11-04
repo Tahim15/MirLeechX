@@ -2,7 +2,7 @@ import shutil, psutil
 import signal
 import os
 import asyncio
-
+#damn
 from pyrogram import idle
 from sys import executable
 
